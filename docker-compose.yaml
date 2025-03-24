@@ -44,18 +44,21 @@ x-common-env: &common-env
   SEARXNG_ENDPOINT: ${SEARXNG_ENDPOINT}
   SEARXNG_ENGINES: ${SEARXNG_ENGINES}
   SEARXNG_CATEGORIES: ${SEARXNG_CATEGORIES}
+  PLAYWRIGHT_SERVICE_PORT: ${PLAYWRIGHT_SERVICE_PORT}
 
 services:
   playwright-service:
     build: apps/playwright-service-ts
     environment:
-      PORT: 3000
+      PORT: ${PLAYWRIGHT_SERVICE_PORT}
       PROXY_SERVER: ${PROXY_SERVER}
       PROXY_USERNAME: ${PROXY_USERNAME}
       PROXY_PASSWORD: ${PROXY_PASSWORD}
       BLOCK_MEDIA: ${BLOCK_MEDIA}
     networks:
       - backend
+    ports:
+      - "${PLAYWRIGHT_SERVICE_PORT}:${PLAYWRIGHT_SERVICE_PORT}"
 
   api:
     <<: *common-service
