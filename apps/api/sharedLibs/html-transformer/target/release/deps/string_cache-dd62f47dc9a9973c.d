@@ -1,0 +1,11 @@
+/opt/sharedLibs/html-transformer/target/release/deps/libstring_cache-dd62f47dc9a9973c.rmeta: /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/atom.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/dynamic_set.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/static_sets.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/trivial_impls.rs
+
+/opt/sharedLibs/html-transformer/target/release/deps/libstring_cache-dd62f47dc9a9973c.rlib: /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/atom.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/dynamic_set.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/static_sets.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/trivial_impls.rs
+
+/opt/sharedLibs/html-transformer/target/release/deps/string_cache-dd62f47dc9a9973c.d: /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/atom.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/dynamic_set.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/static_sets.rs /usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/trivial_impls.rs
+
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/atom.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/dynamic_set.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/static_sets.rs:
+/usr/local/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/string_cache-0.8.7/src/trivial_impls.rs:
